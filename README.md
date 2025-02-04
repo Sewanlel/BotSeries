@@ -1,0 +1,1 @@
+This is for the first video in the series where I show you how to make a discord bot and send messages in a set channel. There will be expansions and other bot files in this GitHub for later videos that will be uploaded later.
